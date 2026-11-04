@@ -25,5 +25,5 @@ Follow these steps to run the project on your local machine.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Lucgril/portfolio.git](https://github.com/Lucgril/portfolio.git)
+git clone https://github.com/Lucgril/portfolio.git
 cd portfolio
