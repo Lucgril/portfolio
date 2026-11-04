@@ -1,0 +1,67 @@
+{
+    "header": {
+        "role": "Senior Back-End Developer & Software Engineer",
+        "emailBtn": "Email",
+        "cvBtn": "Download CV"
+    },
+    "hero": {
+        "title1": "I design scalable enterprise architectures.",
+        "title2": "I write code built to last.",
+        "descPart1": "I am a passionate, precise software engineer constantly seeking new challenges. I don't just make things work: I design clean, easily extensible architectures in ",
+        "descHighlight": "Java, Python, and Node.js",
+        "descPart2": ", boosting productivity through AI-assisted coding."
+    },
+    "mindset": {
+        "title1": "1. Clean Code & Precision:",
+        "desc1": " I write empathetic code. Anyone touching my work in the future will find a logical, documented, and testable architecture.",
+        "title2": "2. Continuous Learning:",
+        "desc2": " Curiosity is my engine. I constantly explore new patterns, frameworks, and paradigms to bring real innovation to my teams.",
+        "title3": "3. AI-Assisted Architecture:",
+        "desc3": " I use tools like Copilot or Gemini to delegate boilerplate and dedicate 100% of my mental energy to architectural design and security.",
+        "title4": "4. Debugging & Problem Solving:",
+        "desc4": " I thrive in complexity. I quickly analyze bottlenecks and anomalies, identifying critical points before they become production incidents."
+    },
+    "challenges": {
+        "sectionTitle": "Challenges & Solutions",
+        "ch1": {
+            "title": "Microservices Architectures",
+            "challengeLabel": "The Challenge:",
+            "challengeText": " Decoupling rigid monoliths while ensuring high availability and asynchronous communication between services.",
+            "solutionLabel": "The Solution:",
+            "solutionText": " Designing REST APIs using Spring Boot, NestJS, and FastAPI, choosing the optimal framework based on workload, and optimizing database transactions."
+        },
+        "ch2": {
+            "title": "Odoo ERP Development",
+            "challengeLabel": "The Challenge:",
+            "challengeText": " Adapting a standard ERP to highly complex business logic, without compromising core system stability or future maintainability.",
+            "solutionLabel": "The Solution:",
+            "solutionText": " Custom Odoo module development. Optimizing ORM queries, customizing critical workflows like billing and inventory, and modifying views via QWeb."
+        },
+        "ch3": {
+            "title": "RPA & Process Automation",
+            "challengeLabel": "The Challenge:",
+            "challengeText": " Reducing manual operational workload, eliminating data-entry errors, and synchronizing older legacy systems that lack APIs.",
+            "solutionLabel": "The Solution:",
+            "solutionText": " Developing UiPath bots and Python/Bash scripts for the reliable automation of back-office flows, smoothly orchestrating disconnected legacy systems."
+        }
+    },
+    "stack": {
+        "sectionTitle": "Tech Stack & Skills",
+        "coreTitle": "Core Back-End",
+        "coreDesc": "Designing complex business logic and fast, scalable, well-documented RESTful APIs.",
+        "dbTitle": "Database & Data",
+        "dbDesc": "Relational modeling, indexing, and optimization of complex queries at scale.",
+        "odooTitle": "Odoo Development",
+        "odooLabel": "Odoo Expert:",
+        "odooDesc": " Business process analysis, custom module creation, flow management, and advanced ORM customizations.",
+        "rpaTitle": "UiPath & RPA",
+        "rpaDesc": "Developing robotic process automations to streamline business workflows and eliminate repetitive tasks.",
+        "cloudTitle": "Cloud & DevOps",
+        "cloudDesc": "Application containerization and Linux infrastructure management for secure, reproducible deployments.",
+        "workflowTitle": "Workflow & Tooling",
+        "workflowDesc": "Software lifecycle management in Agile environments, ensuring continuous integration and team collaboration."
+    },
+    "footer": {
+        "bugs": "0 bugs found... maybe"
+    }
+}

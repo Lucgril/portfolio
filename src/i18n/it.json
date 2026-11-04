@@ -1,0 +1,67 @@
+{
+    "header": {
+        "role": "Senior Back-End Developer & Software Engineer",
+        "emailBtn": "Email",
+        "cvBtn": "Scarica CV"
+    },
+    "hero": {
+        "title1": "Progetto architetture enterprise scalabili.",
+        "title2": "Scrivo codice che dura nel tempo.",
+        "descPart1": "Sono un ingegnere software appassionato, preciso e costantemente alla ricerca di nuove sfide. Non mi limito a far funzionare le cose: progetto architetture pulite e facilmente estendibili in ",
+        "descHighlight": "Java, Python e Node.js",
+        "descPart2": ", amplificando la produttività attraverso l'AI-assisted coding."
+    },
+    "mindset": {
+        "title1": "1. Clean Code & Precisione:",
+        "desc1": " Scrivo codice empatico. Chiunque metterà le mani sul mio lavoro in futuro troverà un'architettura logica, documentata e testabile.",
+        "title2": "2. Continuous Learning:",
+        "desc2": " La curiosità è il mio motore. Esploro costantemente nuovi pattern, framework e paradigmi per portare innovazione reale nei team in cui lavoro.",
+        "title3": "3. AI-Assisted Architecture:",
+        "desc3": " Uso tool come Copilot o Gemini per delegare il boilerplate e dedicare il 100% delle mie energie mentali al design dell'architettura e alla sicurezza.",
+        "title4": "4. Debugging & Problem Solving:",
+        "desc4": " Prospero nella complessità. Analizzo colli di bottiglia e anomalie con rapidità, individuando i punti critici prima che diventino incidenti in produzione."
+    },
+    "challenges": {
+        "sectionTitle": "Sfide & Soluzioni",
+        "ch1": {
+            "title": "Architetture a Microservizi",
+            "challengeLabel": "La Sfida:",
+            "challengeText": " Disaccoppiare monoliti rigidi garantendo alta disponibilità e comunicazione asincrona tra i servizi.",
+            "solutionLabel": "La Soluzione:",
+            "solutionText": " Progettazione di servizi API REST in Spring Boot, NestJS e FastAPI, scegliendo il framework ottimale in base al carico e ottimizzando le transazioni sui database."
+        },
+        "ch2": {
+            "title": "Sviluppo Odoo ERP",
+            "challengeLabel": "La Sfida:",
+            "challengeText": " Adattare un ERP standard a logiche di business complesse, senza compromettere la stabilità del core o la manutenibilità futura.",
+            "solutionLabel": "La Soluzione:",
+            "solutionText": " Sviluppo custom di moduli Odoo. Ottimizzazione delle query sull'ORM, personalizzazione dei flussi operativi (es. logistica, finance, vendite) e modifica profonda delle viste tramite QWeb."
+        },
+        "ch3": {
+            "title": "RPA & Automazione Processi",
+            "challengeLabel": "La Sfida:",
+            "challengeText": " Ridurre il carico operativo manuale, azzerare l'errore umano nel data-entry e sincronizzare sistemi legacy privi di API.",
+            "solutionLabel": "La Soluzione:",
+            "solutionText": " Sviluppo di bot in UiPath e script Python/Bash per l'automazione silenziosa e affidabile dei flussi di back-office, orchestrando processi complessi tra sistemi legacy disconnessi."
+        }
+    },
+    "stack": {
+        "sectionTitle": "Tech Stack & Competenze",
+        "coreTitle": "Core Back-End",
+        "coreDesc": "Progettazione di logiche di business complesse e API RESTful veloci, scalabili e ben documentate.",
+        "dbTitle": "Database & Dati",
+        "dbDesc": "Modellazione relazionale, indicizzazione e ottimizzazione di query complesse su larga scala.",
+        "odooTitle": "Odoo Development",
+        "odooLabel": "Esperto Odoo:",
+        "odooDesc": " Analisi dei processi aziendali, creazione di moduli custom, gestione dei flussi e customizzazioni avanzate dell'ORM.",
+        "rpaTitle": "UiPath & RPA",
+        "rpaDesc": "Sviluppo di automazioni robotiche dei processi per efficientare i flussi operativi aziendali ed eliminare task ripetitivi.",
+        "cloudTitle": "Cloud & DevOps",
+        "cloudDesc": "Containerizzazione degli applicativi e gestione delle infrastrutture Linux per deployment sicuri e replicabili.",
+        "workflowTitle": "Workflow & Tooling",
+        "workflowDesc": "Gestione del ciclo di vita del software in ambienti Agile, garantendo integrazione continua e collaborazione nel team."
+    },
+    "footer": {
+        "bugs": "0 bugs found... forse"
+    }
+}
